@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a4687eae.css",
+    "main.js": "/static/js/main.36856b7d.js",
+    "static/media/keheninggan.jpg": "/static/media/keheninggan.920d3e84602940f82e60.jpg",
+    "index.html": "/index.html",
+    "main.a4687eae.css.map": "/static/css/main.a4687eae.css.map",
+    "main.36856b7d.js.map": "/static/js/main.36856b7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4687eae.css",
+    "static/js/main.36856b7d.js"
+  ]
+}
